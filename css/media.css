@@ -70,6 +70,13 @@
     .margin_bt{
         margin-bottom: 0 !important;
     }
+    /* feature section */
+    .section_title h1 {
+        font-size: 26px;
+    }
+    .testimonial .section_title h1 {
+        font-size: 28px;
+    }
     /* details section  */
     .details_section .phone_img{
         width: 280px;
